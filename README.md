@@ -1,35 +1,37 @@
-# 🚀 Gestor de Estoque - React
+# 🚀 Exercício Final - Gestor de Estoque 
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+Este projeto é uma aplicação **SPA de gestão de estoque** desenvolvida com **React, React Router e Vite**. Ele faz parte do curso **Fullstack da OneBitCode** e foi desenvolvido acompanhando a videoaula, aplicando os conceitos ensinados no curso.
 
-Aplicação SPA para gestão de estoque desenvolvida durante o curso Fullstack da OneBitCode. Gerencie produtos, monitore estatísticas e mantenha seu inventário sempre atualizado!
+---
 
-![Preview da Aplicação](./preview.png) <!-- Adicione uma imagem real posteriormente -->
+## 📌 Funcionalidades  
 
-## ✨ Funcionalidades Principais
+✔️ **Dashboard:** Exibe estatísticas gerais sobre os itens em estoque.  
+✔️ **Listagem de Itens:** Mostra todos os produtos cadastrados com opções para visualizar detalhes, editar e excluir.  
+✔️ **Detalhes do Item:** Exibe todas as informações de um item específico.  
+✔️ **Cadastro e Atualização:** Permite adicionar e modificar itens com nome, quantidade, preço, categoria e descrição.  
+✔️ **Persistência de Dados:** Utiliza **LocalStorage** para manter as informações após a atualização ou fechamento do app.  
+✔️ **Navegação:** Implementada com **React Router**, garantindo uma experiência fluida sem recarregar a página.  
 
-| Seção              | Recursos                                                                               |
-|---------------------|---------------------------------------------------------------------------------------|
-| 📊 **Dashboard**    | - Visão geral do estoque<br>- Gráficos de categorias<br>- Estatísticas de valor total  |
-| 📦 **Listagem**     | - Filtragem por categoria<br>- Ordenação por quantidade/preço<br>- Busca inteligente   |
-| 🔍 **Detalhes**     | - Visualização completa de itens<br>- Histórico de atualizações                       |
-| ✏️ **Edição**       | - Formulários dinâmicos<br>- Validação em tempo real<br>- Preview de alterações       |
-| 💾 **Persistência** | - Armazenamento local via LocalStorage<br>- Sync automático                           |
+---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas  
 
-- **Frontend**:  
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router)
-  ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components)
+🔹 **React**  
+🔹 **React Router**  
+🔹 **Vite**  
+🔹 **LocalStorage**  
+🔹 **Styled Components / Tailwind CSS** *(ou outra abordagem de estilização que você utilizou)*  
 
-- **Ferramentas**:  
-  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint)
-  ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier)
+---
 
-## 🚀 Como Executar
+## 📷 Preview  
 
-1. Clone o repositório:
+*(Se quiser, pode adicionar aqui um print ou GIF da aplicação funcionando!)*  
+
 ```bash
-git clone https://github.com/klausvisual/gestor-estoque.git
+# Exemplo de como rodar o projeto localmente
+git clone https://github.com/klausvisual/GestorDeEstoque.git
+cd seu-repositorio
+npm install
+npm run dev
