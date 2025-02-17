@@ -21,7 +21,7 @@ Este projeto é uma aplicação **SPA de gestão de estoque** desenvolvida com *
 🔹 **React Router**  
 🔹 **Vite**  
 🔹 **LocalStorage**  
-🔹 **Styled Components / Tailwind CSS** *(ou outra abordagem de estilização que você utilizou)*  
+🔹 **Styled Components
 
 ---
 
@@ -50,7 +50,7 @@ Este projeto é uma aplicação **SPA de gestão de estoque** desenvolvida com *
 
 ```bash
 # Exemplo de como rodar o projeto localmente
-git clone https://github.com/klausvisual/GestorDeEstoque.git
-cd seu-repositorio
+git clone https://github.com/klausvisual/GestorDeEstoque
+cd GestorDeEstoque
 npm install
 npm run dev
