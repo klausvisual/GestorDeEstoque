@@ -27,7 +27,26 @@ Este projeto é uma aplicação **SPA de gestão de estoque** desenvolvida com *
 
 ## 📷 Preview  
 
-*(Se quiser, pode adicionar aqui um print ou GIF da aplicação funcionando!)*  
+# #📌 Página inicial
+
+![Descrição da Imagem](public/img/Página%20inicial.webp)
+
+# #📌 Página de itens em estoque
+
+![Descrição da Imagem](public/img/Página%20de%20itens%20em%20estoque.webp)
+
+
+# #📌 Página de item individual
+
+![Descrição da Imagem](public/img/Página%20de%20item%20individual.webp)
+
+# #📌 Página de edição de item
+
+![Descrição da Imagem](public/img/Página%20de%20edição%20de%20item.webp)
+ 
+# #📌 Página de criação de novo item
+
+![Descrição da Imagem](public/img/Página%20de%20criação%20de%20novo%20item.webp)
 
 ```bash
 # Exemplo de como rodar o projeto localmente
